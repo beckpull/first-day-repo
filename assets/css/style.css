@@ -18,4 +18,72 @@
     background-color: darkorange;
 }
 
+.box {
+    width: 200px;
+    height: 200px;
+}
+
+.box-blue {
+    color: white;
+    background-color: #0000ff;
+}
+
+.box-orange {
+    color: #0000ff;
+    background-color: #ffa500;
+}
+
+#box-yellow {
+    color: purple;
+    background-color: yellow;
+}
+
+.lesson-2 {
+    width: 200px;
+    height: 100px;
+}
+
+.section-blue {
+    color: orange;
+    background-color: #0000ff;
+}
+
+.container {
+    color: white;
+    background-color: black;
+}
+
+#section-1 {
+    color: yellow;
+    background-color: purple;
+}
+
+#section-6 {
+    color: yellow;
+}
+
+.facts {
+    background-color: #fffacd;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#fact-1 {
+    font-weight: bold;
+    color: black;
+}
+
+#fact-2 {
+    font-size: 24px;
+}
+
+#fact-3 {
+    line-height: 50px;
+}
+
+.activity {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+
 
