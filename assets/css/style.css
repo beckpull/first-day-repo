@@ -1,15 +1,21 @@
 .lesson {
    background-color: lemonchiffon; 
 }
-#paragraph-1 {
-    color: darkslateblue;
-    background-color: white;
+
+.title {
+    color: darkblue;
 }
-#paragraph-2 {
-    color: darkslateblue;
+
+#email {
+    background-color: goldenrod;
+}
+
+#github {
+    background-color: lightsteelblue;
+}
+
+#portfolio {
     background-color: darkorange;
 }
-#paragraph-3 {
-    color: white;
-    background-color: darkslateblue;
-}
+
+
